@@ -1,1 +1,11 @@
 # Takataka-physics_RescueMaze_2026
+
+ファイルを新たに作る場合はブランチを分けずにMainでしてかまわない。
+既存ファイルを編集する場合はブランチを分けてして、部活動中に干渉がないか確認して統合すること。
+
+入れるディレクトリが分からないファイルはForTestディレクトリに入れよ。
+
+Software:ソフトウェア関連のファイル
+Software/AlgorithmFiles:アルゴリズムに関する小ファイル
+Software/OldFiles:去年のファイル
+Root直下:完成したファイルのフォルダを置く(例:HukudaLibraried_20260125_f)
